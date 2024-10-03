@@ -3,9 +3,9 @@ main = "src/index.ts"
 compatibility_date = "2023-12-18"
 
 [vars]
-TURSO_DB_AUTH_TOKEN = ""
-TURSO_DB_URL = ""
-EMAIL_DOMAIN = "vmail.dev"
+TURSO_DB_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3Mjc5OTY0MjcsImlkIjoiMWY5NjAxODctYzRiOS00ZTRhLThhOWEtNzRjODk2Yzc1N2M0In0.bLvHfeWCqhJKBfZsvLhp7swLceuJ8RYRkYkrsrZ9BlvsBZ4qvaoH9YMFJ_9BEgyPBgrtQ9xEPYWt3RMUc7NFAA"
+TURSO_DB_URL = "libsql://vmail-brightonbitz.turso.io"
+EMAIL_DOMAIN = "virtualpathway.biz"
 
 # [[d1_databases]]
 # binding = "DB"
